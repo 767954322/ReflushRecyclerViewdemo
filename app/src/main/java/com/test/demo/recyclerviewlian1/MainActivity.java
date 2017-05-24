@@ -124,7 +124,7 @@ public class MainActivity extends BaseActivity {
 
         List<MyDataItem> list = new ArrayList<>();
 
-        for (int i = 0; i < 10; i++)
+        for (int i = 0; i < 15; i++)
             list.add(new MyDataItem("Item" + (i + 1)));
 
         return list;

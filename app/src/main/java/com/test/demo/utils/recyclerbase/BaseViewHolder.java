@@ -6,7 +6,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+
 /**
+ * Created by gumenghao on 17/5/23.
  * BaseViewHolder 顶级父类
  */
 public class BaseViewHolder<T> extends RecyclerView.ViewHolder {

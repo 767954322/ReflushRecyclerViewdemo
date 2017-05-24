@@ -1,7 +1,7 @@
 package com.test.demo.utils.recyclerbase;
 
 /**
- * Created by linlongxin on 2016/1/25.
+ * Created by gumenghao on 17/5/23.
  */
 public interface Action {
     void onAction();

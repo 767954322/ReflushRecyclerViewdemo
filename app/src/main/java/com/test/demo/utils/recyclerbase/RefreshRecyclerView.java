@@ -17,7 +17,7 @@ import com.test.demo.recyclerviewlian1.R;
 
 
 /**
- * Created by linlongxin on 2016/1/24.
+ * Created by gumenghao on 17/5/23.
  */
 public class RefreshRecyclerView extends FrameLayout {
 

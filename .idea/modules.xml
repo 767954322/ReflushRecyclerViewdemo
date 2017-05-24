@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewLian1.iml" filepath="$PROJECT_DIR$/RecyclerViewLian1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReflushRecyclerView-master.iml" filepath="$PROJECT_DIR$/ReflushRecyclerView-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflushRecyclerViewdemo.iml" filepath="$PROJECT_DIR$/ReflushRecyclerViewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
